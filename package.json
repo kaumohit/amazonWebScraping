@@ -1,0 +1,24 @@
+{
+  "name": "amazonwebscraping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaumohit/amazonWebScraping.git"
+  },
+  "author": "Mohit Kaushal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaumohit/amazonWebScraping/issues"
+  },
+  "homepage": "https://github.com/kaumohit/amazonWebScraping#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "json2csv": "^4.3.3",
+    "puppeteer": "^1.11.0"
+  }
+}
